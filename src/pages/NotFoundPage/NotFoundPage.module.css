@@ -1,0 +1,9 @@
+.text {
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+.link {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
