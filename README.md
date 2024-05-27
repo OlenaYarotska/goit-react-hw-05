@@ -1,4 +1,4 @@
-    Movie Search Application
+    Movies Search Application
 
 - Search by title or keyword
 - Trending movies page and movie search page
